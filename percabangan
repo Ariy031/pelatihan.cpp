@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int;
+    cout<< "nilai :";
+    cin>> uang;
+    cout<<":";
+    cin>> harga;
+    if ( > )
+    {
+        kembalian = uang - harga;
+        cout<< "kembalian ="<<kembalian;
+    }
+     else if ( < )
+    {
+}
